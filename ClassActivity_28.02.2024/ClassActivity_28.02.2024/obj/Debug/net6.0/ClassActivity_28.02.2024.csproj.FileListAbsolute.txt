@@ -1,0 +1,14 @@
+D:\VS\ClassActivity_28.02.2024\ClassActivity_28.02.2024\bin\Debug\net6.0\ClassActivity_28.02.2024.exe
+D:\VS\ClassActivity_28.02.2024\ClassActivity_28.02.2024\bin\Debug\net6.0\ClassActivity_28.02.2024.deps.json
+D:\VS\ClassActivity_28.02.2024\ClassActivity_28.02.2024\bin\Debug\net6.0\ClassActivity_28.02.2024.runtimeconfig.json
+D:\VS\ClassActivity_28.02.2024\ClassActivity_28.02.2024\bin\Debug\net6.0\ClassActivity_28.02.2024.dll
+D:\VS\ClassActivity_28.02.2024\ClassActivity_28.02.2024\bin\Debug\net6.0\ClassActivity_28.02.2024.pdb
+D:\VS\ClassActivity_28.02.2024\ClassActivity_28.02.2024\obj\Debug\net6.0\ClassActivity_28.02.2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\ClassActivity_28.02.2024\ClassActivity_28.02.2024\obj\Debug\net6.0\ClassActivity_28.02.2024.AssemblyInfoInputs.cache
+D:\VS\ClassActivity_28.02.2024\ClassActivity_28.02.2024\obj\Debug\net6.0\ClassActivity_28.02.2024.AssemblyInfo.cs
+D:\VS\ClassActivity_28.02.2024\ClassActivity_28.02.2024\obj\Debug\net6.0\ClassActivity_28.02.2024.csproj.CoreCompileInputs.cache
+D:\VS\ClassActivity_28.02.2024\ClassActivity_28.02.2024\obj\Debug\net6.0\ClassActivity_28.02.2024.dll
+D:\VS\ClassActivity_28.02.2024\ClassActivity_28.02.2024\obj\Debug\net6.0\refint\ClassActivity_28.02.2024.dll
+D:\VS\ClassActivity_28.02.2024\ClassActivity_28.02.2024\obj\Debug\net6.0\ClassActivity_28.02.2024.pdb
+D:\VS\ClassActivity_28.02.2024\ClassActivity_28.02.2024\obj\Debug\net6.0\ClassActivity_28.02.2024.genruntimeconfig.cache
+D:\VS\ClassActivity_28.02.2024\ClassActivity_28.02.2024\obj\Debug\net6.0\ref\ClassActivity_28.02.2024.dll
